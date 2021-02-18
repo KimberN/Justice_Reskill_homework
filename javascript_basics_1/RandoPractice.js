@@ -3,7 +3,7 @@ function kim(param1, param2){
 
   var a = param1 + "love" + param2
 
-  return a;
+  return a
 
 }
 //Invoke run/call paramater
