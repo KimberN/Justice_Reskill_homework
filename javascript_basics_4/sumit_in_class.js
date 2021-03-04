@@ -30,5 +30,16 @@ var yourName ={
     console.log(yourName.lname);//Noyes
 //etc
 //am i on the right track?
-//Reassigning
-
+//Reassigning & adding
+yourName.fname = 'susie',
+yourName.add.currentLocation:'Boulder',
+//-------------------------freecodecamp
+var book ={};
+objName.author ="jane smith",
+console.log (book); //{"jane smith"}
+book.author ='jane smith';
+"jane smith"
+console.log(book);
+VM287:1 {author: "jane smith"}
+undefined
+//

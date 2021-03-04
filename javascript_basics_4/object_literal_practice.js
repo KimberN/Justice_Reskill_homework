@@ -1,5 +1,5 @@
 //Familiarize yourself with the object literal stored in employee, then answer the questions below.
-var employee +{
+var employee ={
     id:467239,
     name:"Megan Cain",
     team:4

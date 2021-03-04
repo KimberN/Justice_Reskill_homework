@@ -4,7 +4,14 @@
 //I want to see [insert animal name here]! Waaah!"
 //With your array (and - if needed - with your knowledge of parameters),
 // invoke your function to ensure it is working correctly.
-var animals = ['lemur','tazmanian devil', 'platypus','sloth']
+var i;
+var animals = ['lemur','tazmanian devil', 'platypus','sloth'];
+
+console.log(animals[3]);
+//sloth
+for(i=0;i<animals.lenth;++i){
+console.log(animals[i]);
+}
 function nameAnimals(animals){
     var complain =[]
     for( var i=0;i<=animals.lenth;i++){
